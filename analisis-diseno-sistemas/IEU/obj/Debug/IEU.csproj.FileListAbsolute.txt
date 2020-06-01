@@ -1,0 +1,7 @@
+C:\Users\larah\source\repos\IEU\IEU\obj\Debug\IEU.csprojAssemblyReference.cache
+C:\Users\larah\source\repos\IEU\IEU\obj\Debug\IEU.csproj.CoreCompileInputs.cache
+C:\Users\larah\source\repos\IEU\IEU\bin\Debug\IEU.exe.config
+C:\Users\larah\source\repos\IEU\IEU\bin\Debug\IEU.exe
+C:\Users\larah\source\repos\IEU\IEU\bin\Debug\IEU.pdb
+C:\Users\larah\source\repos\IEU\IEU\obj\Debug\IEU.exe
+C:\Users\larah\source\repos\IEU\IEU\obj\Debug\IEU.pdb
