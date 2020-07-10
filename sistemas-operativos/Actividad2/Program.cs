@@ -40,9 +40,9 @@ namespace Actividad2
             while (UltimoClienteCreado < ClientesASimular)
             {
                 System.Threading.Thread.Sleep(TiempoSiguienteCliente * 1000);
-                TiempoSiguienteCliente = new Random().Next(1, TiempoMaximoCliente);
+                TiempoSiguienteCliente = new Random().Next(1, TiempoSiguienteCliente);
 
-                if (Clientes.Count <= Asientos - 1)
+                if (Clientes.Count < Asientos)
                 {
                     lock (Clientes)
                     {
